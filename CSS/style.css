@@ -14,7 +14,9 @@ body {
     opacity: .50;
 }
 
-
+.text-center{
+    line-height: 300%
+}
 
 h1{
     text-align: center;
